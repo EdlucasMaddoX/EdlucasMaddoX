@@ -9,13 +9,13 @@
 ### SOBRE MIM
   💻 Cursando Análise e Desenvolvimento de Sistemas
   
-  ✔ Foco em Resultados
-  
   📢 Comunicativo
+  
+  👨🏽‍🤝‍👨🏼 Trabalho em Equipe
   
   ✔ Interessado de Desenvolvimento de Software e Sistemas
   
-  👨🏽‍🤝‍👨🏼 Trabalho em Equipe
+  ✔ Foco em Resultados
   
   ✔ Gosto de um desafio
   
