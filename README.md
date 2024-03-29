@@ -38,6 +38,8 @@
   ### CONTRIBUIÇÕES...
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdlucasMaddoX&show_icons=true&theme=radical)
+<div align = "left">
+<img height = "140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdlucasMaddoX&show_icons=true&theme=radical&count_private=true"/>
 
 ---------------------------------------------------------------------------------------------------------
   ### CONTATOS...
