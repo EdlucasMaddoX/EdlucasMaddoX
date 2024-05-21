@@ -13,7 +13,7 @@
   
   👨🏽‍🤝‍👨🏼 Trabalho em Equipe
   
-  ✔ Interessado de Desenvolvimento de Software e Sistemas
+  ✔ Interessado em Desenvolvimento de Software e Sistemas
   
   ✔ Foco em Resultados
   
